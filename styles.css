@@ -14,6 +14,10 @@ img{
     font-weight: bold;
 }
 
+.subheader,
+.page-title{
+    color:#daa520
+}
 
 .recipe-title{
     font-size: 32px;
@@ -24,6 +28,7 @@ img{
     font-weight: bold;
 }
 
-.subheader {
-    color:#daa520
+h5{
+    font-size: 18px;
+    color: lightcoral;
 }
