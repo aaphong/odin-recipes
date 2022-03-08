@@ -1,10 +1,29 @@
 * {
     background-color: #333;
-    color:#fff;
-    font-family:Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif
 }
 
-img {
+img{
+    width: 400px;
     height: auto;
-    width: 500px;
+}
+
+#title{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+.recipe-title{
+    font-size: 32px;
+}
+
+.subheader{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.subheader {
+    color:#daa520
 }
